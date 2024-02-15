@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MQUe5J4mOfWC9zRjBWVHzY0Sg4SusRrIzP8OVH8AxdU=",
+  "Source": "DummyCICD",
+  "BasePath": "_content/DummyCICD",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
